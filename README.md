@@ -1,2 +1,2 @@
 # EDA-and-Cleaning-with-Python
-This is where i'll be doing various EDA and Cleaning exercise with python~
+Various EDA and Dats cleaning exercise with python
